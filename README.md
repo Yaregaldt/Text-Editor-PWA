@@ -23,6 +23,8 @@ npm install
 
 to run the app in your machine, run `npm run start`
 
+Deployed app can be accessed at: https://powerful-bayou-24212.herokuapp.com/
+
 ## License
 
 This project is license under Apache
